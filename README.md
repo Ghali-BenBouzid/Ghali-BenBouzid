@@ -2,10 +2,6 @@
   <img src="./assets/coastal-workspace.png" alt="A sunlit coastal workspace overlooking the sea" width="100%">
 </p>
 
-<p align="center">
-  <sub>Building toward dependable AI systems, one measured iteration at a time.</sub>
-</p>
-
 <h1 align="center">Ghali Ben Bouzid</h1>
 
 <p align="center">
