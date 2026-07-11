@@ -21,6 +21,12 @@
   <i>AI Engineer · Machine Learning Engineer · Data Scientist · Applied AI opportunities</i>
 </p>
 
+<p align="center"><img src="./assets/header-current-v2.png" width="64%" alt="Current direction"></p>
+
+- Building **Cognireply**, a pre-launch AI SaaS product with a three-person team
+- Previously worked as a data scientist on applied machine learning and Earth observation
+- Currently focused on reliable LLM applications, agentic workflows, retrieval, and evaluation
+
 <p align="center"><img src="./assets/header-work-v2.png" width="64%" alt="Selected work"></p>
 
 <table width="100%">
@@ -40,12 +46,6 @@
   </tr>
 </table>
 
-<p align="center"><img src="./assets/header-current-v2.png" width="64%" alt="Current direction"></p>
-
-- Building **Cognireply**, a pre-launch AI SaaS product with a three-person team
-- Previously worked as a data scientist on applied machine learning and Earth observation
-- Currently focused on reliable LLM applications, agentic workflows, retrieval, and evaluation
-
 <p align="center"><img src="./assets/header-activity-v2.png" width="64%" alt="GitHub activity"></p>
 
 <p align="center">
@@ -53,5 +53,5 @@
 </p>
 
 <p align="center">
-  <sub>Building toward dependable AI systems—one measured iteration at a time.</sub>
+  <sub>Building toward dependable AI systems, one measured iteration at a time.</sub>
 </p>
