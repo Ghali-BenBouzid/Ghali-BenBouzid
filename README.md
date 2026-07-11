@@ -5,7 +5,7 @@
 <h1 align="center">Ghali Ben Bouzid</h1>
 
 <p align="center">
-  AI engineer building reliable systems with models, data, tools, and humans.<br>
+  AI engineer building reliable systems with models, data, tools, and human gates.<br>
   From predictive machine learning pipelines to modern LLM applications.
 </p>
 
