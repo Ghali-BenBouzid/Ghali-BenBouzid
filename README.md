@@ -2,6 +2,10 @@
   <img src="./assets/coastal-workspace.png" alt="A sunlit coastal workspace overlooking the sea" width="100%">
 </p>
 
+<p align="center">
+  <sub>Building toward dependable AI systems, one measured iteration at a time.</sub>
+</p>
+
 <h1 align="center">Ghali Ben Bouzid</h1>
 
 <p align="center">
@@ -50,8 +54,4 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghali-BenBouzid&days=31&bg_color=00000000&color=4F99B6&line=17617C&point=B55E42&area=true&area_color=4F99B6&hide_border=true&custom_title=June%E2%80%93July%202026%20%C2%B7%20last%2031%20days" alt="Ghali's GitHub contribution activity from June to July 2026" width="100%">
-</p>
-
-<p align="center">
-  <sub>Building toward dependable AI systems, one measured iteration at a time.</sub>
 </p>
