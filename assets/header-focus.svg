@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="96" viewBox="0 0 1100 96" role="img" aria-labelledby="title">
+  <title id="title">Engineering focus</title>
+  <path d="M0 64 C142 50 234 74 362 58 S620 48 746 61 S954 72 1100 55" fill="none" stroke="#BBDDE6" stroke-width="5"/>
+  <path d="M0 73 C137 61 286 82 430 68 S720 59 868 70 S1012 77 1100 67" fill="none" stroke="#758D71" stroke-width="2"/>
+  <rect x="408" y="18" width="284" height="51" rx="25" fill="#F5F0E6" stroke="#DECAA4"/>
+  <text x="550" y="51" text-anchor="middle" font-family="Georgia,serif" font-size="21" fill="#17617C">Engineering focus</text>
+</svg>
