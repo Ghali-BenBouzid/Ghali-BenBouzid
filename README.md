@@ -22,14 +22,14 @@
 </p>
 
 <h2 align="center">Current direction</h2>
-<p align="center"><img src="./assets/coastal-divider.png" width="100%" alt=""></p>
+<p align="center"><img src="./assets/coastal-divider.png" width="72%" alt=""></p>
 
 - Building **Cognireply**, a pre-launch AI SaaS product with a three-person team
 - Previously worked as a data scientist on applied machine learning and Earth observation
 - Currently focused on reliable LLM applications, agentic workflows, retrieval, and evaluation
 
 <h2 align="center">Selected work</h2>
-<p align="center"><img src="./assets/coastal-divider.png" width="100%" alt=""></p>
+<p align="center"><img src="./assets/coastal-divider.png" width="72%" alt=""></p>
 
 <table width="100%">
   <tr>
@@ -49,7 +49,7 @@
 </table>
 
 <h2 align="center">Engineering focus</h2>
-<p align="center"><img src="./assets/coastal-divider.png" width="100%" alt=""></p>
+<p align="center"><img src="./assets/coastal-divider.png" width="72%" alt=""></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-17617C?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -60,7 +60,7 @@
 </p>
 
 <h2 align="center">GitHub activity</h2>
-<p align="center"><img src="./assets/coastal-divider.png" width="100%" alt=""></p>
+<p align="center"><img src="./assets/coastal-divider.png" width="72%" alt=""></p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghali-BenBouzid&bg_color=00000000&color=4F99B6&line=17617C&point=B55E42&area=true&area_color=4F99B6&hide_border=true&custom_title=Contribution%20activity" alt="Ghali's GitHub contribution activity" width="100%">
