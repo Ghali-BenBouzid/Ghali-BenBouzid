@@ -40,17 +40,17 @@
   </tr>
 </table>
 
-<p align="center"><img src="./assets/header-activity-v2.png" width="64%" alt="GitHub activity"></p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghali-BenBouzid&bg_color=00000000&color=4F99B6&line=17617C&point=B55E42&area=true&area_color=4F99B6&hide_border=true&custom_title=Contribution%20activity" alt="Ghali's GitHub contribution activity" width="100%">
-</p>
-
 <p align="center"><img src="./assets/header-current-v2.png" width="64%" alt="Current direction"></p>
 
 - Building **Cognireply**, a pre-launch AI SaaS product with a three-person team
 - Previously worked as a data scientist on applied machine learning and Earth observation
 - Currently focused on reliable LLM applications, agentic workflows, retrieval, and evaluation
+
+<p align="center"><img src="./assets/header-activity-v2.png" width="64%" alt="GitHub activity"></p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/17617C/Ghali-BenBouzid" alt="Ghali's GitHub contribution calendar by month" width="100%">
+</p>
 
 <p align="center">
   <sub>Building toward dependable AI systems—one measured iteration at a time.</sub>
