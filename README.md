@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/coastal-workspace.png" alt="A sunlit coastal workspace overlooking the sea" width="100%">
+</p>
+
 # Hi, I'm Ghali
 
 I'm an AI engineer with a data science foundation. I build systems that connect models, data, tools, and humans. From predictive machine learning pipelines to modern LLM applications.
