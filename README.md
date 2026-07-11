@@ -10,18 +10,26 @@
 </p>
 
 <p align="center">
-  <a href="https://fr.linkedin.com/in/ghali-ben-bouzid-6b6582268"><img src="https://img.shields.io/badge/LinkedIn-Connect-17617C?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Open_to-AI_%C2%B7_ML_%C2%B7_Data_roles-B55E42?style=flat-square" alt="Open to AI, machine learning, and data roles">
+  <a href="https://www.linkedin.com/in/ghali-ben-bouzid-6b6582268"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://ghalibenbouzid.com"><img src="https://img.shields.io/badge/Personal_Website-17617C?style=for-the-badge&logo=safari&logoColor=white" alt="Personal website"></a>
+  <a href="mailto:benbouzidghali@gmail.com"><img src="https://img.shields.io/badge/Mail-B55E42?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"></a>
 </p>
 
-<p align="center"><img src="./assets/header-current.svg" width="100%" alt="Current direction"></p>
+<h3 align="center">I'm open to</h3>
+
+<p align="center">
+  <i>AI Engineer · Machine Learning Engineer · Data Scientist · Applied AI opportunities</i>
+</p>
+
+<h2 align="center">Current direction</h2>
+<p align="center"><img src="./assets/coastal-divider.png" width="100%" alt=""></p>
 
 - Building **Cognireply**, a pre-launch AI SaaS product with a three-person team
 - Previously worked as a data scientist on applied machine learning and Earth observation
 - Currently focused on reliable LLM applications, agentic workflows, retrieval, and evaluation
-- Open to **AI Engineer**, **Machine Learning Engineer**, **Data Scientist**, and **Applied AI** opportunities
 
-<p align="center"><img src="./assets/header-work.svg" width="100%" alt="Selected work"></p>
+<h2 align="center">Selected work</h2>
+<p align="center"><img src="./assets/coastal-divider.png" width="100%" alt=""></p>
 
 <table width="100%">
   <tr>
@@ -40,7 +48,8 @@
   </tr>
 </table>
 
-<p align="center"><img src="./assets/header-focus.svg" width="100%" alt="Engineering focus"></p>
+<h2 align="center">Engineering focus</h2>
+<p align="center"><img src="./assets/coastal-divider.png" width="100%" alt=""></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-17617C?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -50,7 +59,8 @@
   <img src="https://img.shields.io/badge/Evaluation-DECAA4?style=flat-square&labelColor=DECAA4&color=DECAA4" alt="Evaluation">
 </p>
 
-<p align="center"><img src="./assets/header-activity.svg" width="100%" alt="GitHub activity"></p>
+<h2 align="center">GitHub activity</h2>
+<p align="center"><img src="./assets/coastal-divider.png" width="100%" alt=""></p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghali-BenBouzid&bg_color=00000000&color=4F99B6&line=17617C&point=B55E42&area=true&area_color=4F99B6&hide_border=true&custom_title=Contribution%20activity" alt="Ghali's GitHub contribution activity" width="100%">

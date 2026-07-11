@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="96" viewBox="0 0 1100 96" role="img" aria-labelledby="title">
-  <title id="title">Current direction</title>
-  <path d="M0 63 C120 47 216 75 338 58 S566 45 686 60 S920 72 1100 52" fill="none" stroke="#BBDDE6" stroke-width="5"/>
-  <path d="M0 72 C156 59 250 82 404 67 S695 58 842 70 S1012 75 1100 67" fill="none" stroke="#4F99B6" stroke-width="2"/>
-  <rect x="408" y="18" width="284" height="51" rx="25" fill="#F5F0E6" stroke="#DECAA4"/>
-  <text x="550" y="51" text-anchor="middle" font-family="Georgia,serif" font-size="21" fill="#17617C">Current direction</text>
-</svg>
