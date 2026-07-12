@@ -3,7 +3,7 @@
   <img src="assets/banner-light.svg" alt="A sunlit coastal workspace overlooking the sea" width="100%">
 </picture>
 
-<br>
+<br><br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ghali-ben-bouzid-6b6582268"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
