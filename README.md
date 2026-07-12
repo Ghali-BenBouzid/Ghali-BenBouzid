@@ -3,11 +3,15 @@
   <img src="assets/banner-light.svg" alt="A sunlit coastal workspace overlooking the sea" width="100%">
 </picture>
 
+<br><br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ghali-ben-bouzid-6b6582268"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://ghalibenbouzid.com"><img src="https://img.shields.io/badge/Website-17617C?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>
   <a href="mailto:benbouzidghali@gmail.com"><img src="https://img.shields.io/badge/Mail-B55E42?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"></a>
 </p>
+
+<br><br>
 
 <h3 align="center">I'm open to</h3>
 
@@ -25,17 +29,17 @@
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
       <h4><a href="https://github.com/Ghali-BenBouzid/sentinel">Sentinel</a></h4>
       <p>Predictive maintenance: AutoML core, agents that train, monitor, and act.</p>
       <p><sub><b>Python · LangGraph</b></sub></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
       <h4><a href="https://github.com/Ghali-BenBouzid/ad-compliance-auditor">Warden</a></h4>
       <p>Multimodal ad-compliance auditing with retrieval and structured reasoning.</p>
       <p><sub><b>Python · LangGraph · Azure AI</b></sub></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
       <h4><a href="https://github.com/Ghali-BenBouzid/nexus">Nexus</a></h4>
       <p>Multi-agent research assistant: one query in, cited report out.</p>
       <p><sub><b>Python · Agents</b></sub></p>
