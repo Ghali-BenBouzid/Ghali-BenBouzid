@@ -3,7 +3,7 @@
   <img src="assets/banner-light.svg" alt="A sunlit coastal workspace overlooking the sea" width="100%">
 </picture>
 
-<br><br>
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ghali-ben-bouzid-6b6582268"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -11,19 +11,21 @@
   <a href="mailto:benbouzidghali@gmail.com"><img src="https://img.shields.io/badge/Mail-B55E42?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"></a>
 </p>
 
-<br><br>
-
 <h3 align="center">I'm open to</h3>
 
 <p align="center">
   <i>AI Engineer · Machine Learning Engineer · Data Scientist · Applied AI opportunities</i>
 </p>
 
+<br>
+
 <p align="center"><img src="./assets/header-current-v2.png" width="64%" alt="Current direction"></p>
 
 - Building **Cognireply**, a pre-launch AI SaaS product with a three-person team
 - Previously worked as a data scientist on applied machine learning and Earth observation
 - Currently focused on reliable LLM applications, agentic workflows, retrieval, and evaluation
+
+<br>
 
 <p align="center"><img src="./assets/header-work-v2.png" width="64%" alt="Selected work"></p>
 
@@ -46,6 +48,8 @@
     </td>
   </tr>
 </table>
+
+<br>
 
 <p align="center"><img src="./assets/header-activity-v2.png" width="64%" alt="GitHub activity"></p>
 
