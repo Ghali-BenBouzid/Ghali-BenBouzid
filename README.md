@@ -1,7 +1,12 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img src="assets/banner-light.png" alt="Ghali Ben Bouzid — AI engineer building reliable systems with models, data, tools, and humans. From predictive machine learning pipelines to modern LLM applications." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="A sunlit coastal workspace overlooking the sea" width="100%">
 </picture>
+
+## Ghali Ben Bouzid
+
+AI engineer building reliable systems with models, data, tools, and humans.<br>
+From predictive machine learning pipelines to modern LLM applications.
 
 **I'M OPEN TO** &nbsp; *AI Engineer · Machine Learning Engineer · Data Scientist · Applied AI opportunities*
 
