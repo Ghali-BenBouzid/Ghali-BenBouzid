@@ -9,8 +9,5 @@
     <clipPath id="round"><rect width="1600" height="533" rx="28" ry="28"/></clipPath>
   </defs>
   <rect x="0" y="0" width="1600" height="533" fill="url(#fade)"/>
-  <text x="48" y="407" font-size="43" font-weight="700" fill="#ffffff">Ghali Ben Bouzid</text>
-  <text x="48" y="453" font-size="22" fill="rgba(255,255,255,0.88)">AI engineer building reliable systems with models, data, tools, and humans.</text>
-  <text x="48" y="485" font-size="22" fill="rgba(255,255,255,0.88)">From predictive machine learning pipelines to modern LLM applications.</text>
   </g>
 </svg>
