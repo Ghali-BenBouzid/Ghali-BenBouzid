@@ -31,17 +31,17 @@
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top" align="center">
+    <td width="33%" valign="middle" align="center">
       <h4><a href="https://github.com/Ghali-BenBouzid/sentinel">Sentinel</a></h4>
       <p>Predictive maintenance: AutoML core, agents that train, monitor, and act.</p>
       <p><sub><b>Python · LangGraph</b></sub></p>
     </td>
-    <td width="33%" valign="top" align="center">
+    <td width="33%" valign="middle" align="center">
       <h4><a href="https://github.com/Ghali-BenBouzid/ad-compliance-auditor">Warden</a></h4>
       <p>Multimodal ad-compliance auditing with retrieval and structured reasoning.</p>
       <p><sub><b>Python · LangGraph · Azure AI</b></sub></p>
     </td>
-    <td width="33%" valign="top" align="center">
+    <td width="33%" valign="middle" align="center">
       <h4><a href="https://github.com/Ghali-BenBouzid/nexus">Nexus</a></h4>
       <p>Multi-agent research assistant: one query in, cited report out.</p>
       <p><sub><b>Python · Agents</b></sub></p>

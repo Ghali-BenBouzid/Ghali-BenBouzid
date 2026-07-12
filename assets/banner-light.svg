@@ -4,10 +4,13 @@
   <defs>
     <linearGradient id="fade" x1="0" y1="133" x2="0" y2="533" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="rgba(250,248,244,0)"/>
-      <stop offset="1" stop-color="rgba(250,248,244,0.95)"/>
+      <stop offset="1" stop-color="rgba(250,248,244,0.85)"/>
     </linearGradient>
     <clipPath id="round"><rect width="1600" height="533" rx="28" ry="28"/></clipPath>
   </defs>
   <rect x="0" y="0" width="1600" height="533" fill="url(#fade)"/>
+  <text x="48" y="407" font-size="43" font-weight="700" fill="#1f2328">Ghali Ben Bouzid</text>
+  <text x="48" y="453" font-size="22" fill="#1f2328">AI engineer building reliable systems with models, data, tools, and humans.</text>
+  <text x="48" y="485" font-size="22" fill="#1f2328">From predictive machine learning pipelines to modern LLM applications.</text>
   </g>
 </svg>
